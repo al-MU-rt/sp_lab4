@@ -1,0 +1,6 @@
+# ninja log v5
+0	21	1703430867	CMakeFiles/calculator.dir/calculator.cpp.o	5370a55e39755d49
+1	21	1703430867	CMakeFiles/myprogram.dir/calculator.cpp.o	df7b930d484257c1
+21	34	1703430867	libcalculator.a	5835644b85a409c0
+0	197	1703430867	CMakeFiles/myprogram.dir/main.cpp.o	85235201ec7ac242
+197	423	1703430868	myprogram	67d35904025f690e

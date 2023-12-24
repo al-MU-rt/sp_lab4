@@ -1,0 +1,4 @@
+/home/anton/kursach/calculator/laba_4/CMakeFiles/rebuild_cache.dir
+/home/anton/kursach/calculator/laba_4/CMakeFiles/edit_cache.dir
+/home/anton/kursach/calculator/laba_4/CMakeFiles/calculator.dir
+/home/anton/kursach/calculator/laba_4/CMakeFiles/myprogram.dir
